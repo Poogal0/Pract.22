@@ -1,4 +1,4 @@
-console.log("JS maps: increment 5.");
+console.log("JS maps: increment 7.");
 var x0 = 55.790927;
 var y0 = 49.114453;
 
@@ -19,3 +19,6 @@ function init() {
 	);
 }
 
+function onClickNext() {
+	console.log("clicked Next");
+}
